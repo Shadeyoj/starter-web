@@ -12,5 +12,5 @@ Add some purpose
 Add deployment information
 
 
-## How to Cotribute
+## How to Contribute to the project
 This is how you can contribute
