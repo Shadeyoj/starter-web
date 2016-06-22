@@ -9,5 +9,7 @@ Sample website with plenty of files for demos
 ## Purpose
 Add some purpose
 ##Deployment
+Add deployment information
+
 
 ## How to Cotribute
