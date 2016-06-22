@@ -13,6 +13,10 @@ here is some more purpose.
 
 more more more purpose
 
+## Other important information
+There is more information here. 
+
+
 ##Deployment
 Add deployment information
 moke some changes.
@@ -20,10 +24,10 @@ some other changes
 
 one more time
 
-
 ## How to Contribute to the project
 This is how you can contribute
 here is my stuff. more stuff
 
 #Copyright
 The copyright notice has been added.
+This was changed
