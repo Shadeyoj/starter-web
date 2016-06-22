@@ -8,9 +8,12 @@ Sample website with plenty of files for demos
 
 ## Purpose
 Add some purpose
+here is some more purpose.
 
 ##Deployment
 Add deployment information
+moke some changes.
+some other changes
 
 
 ## How to Contribute to the project
