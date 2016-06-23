@@ -25,6 +25,7 @@ some other changes
 one more time
 
 ## How to Contribute to the project
+Please fork this repository and then issue Pull Requests for review
 This is how you can contribute
 here is my stuff. more stuff
 
