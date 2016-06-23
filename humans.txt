@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    OJ Johnson oj@gmail.com
 
 # TECHNOLOGY COLOPHON
 
